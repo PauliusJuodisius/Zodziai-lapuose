@@ -8,7 +8,16 @@ Stiliaus ir kokybės lygio pavyzdžiai. Skaityti visada.
 
 - `bucikiukas-ir-pabaisa.md` – trumpas, skaityti visą.
 - `bumbambilijos-pasaka.md` – pagrindinis autoriaus stiliaus pavyzdys (~2000 eilučių, 3 dalys). Skaityti visą.
-- `barba-ir-debesu-metro.md` – **dar neįkeltas.** Struktūros pavyzdys (skyriai I, II… su sunumeruotomis pastraipomis).
+
+## Taisymo pavyzdžiai (`taisymai/`)
+
+Ankstesnių pasakų kūrimo etapai: autoriaus pastabos, pakeitimai ir iš jų kylančios taisyklės. Skaityti visus prieš rašant.
+
+- `brutis-znypliukas.md` – Brutis Žnypliukas ir Munahamio džiunglės (yra galutinis tekstas, struktūros pavyzdys)
+- `negirduko-muzika.md` – Negirduko muzika (yra galutinis tekstas, struktūros pavyzdys)
+- `burbuliukas.md` – Burbuliukas ir burbulinė guma
+- `burzgas.md` – Burzgas Mechaniškis: „Niekada neišeisi iš džiunglių“
+- `telefonu-susikeitimas.md` – Telefonų susikeitimas
 
 ## Rodari pasakos (`rodari-pasakos/`, rusų k.)
 
