@@ -7,7 +7,7 @@ Tekstai išskaidyti iš `Pavyzdziu_rinkinys.docx` (projekto šaknyje). Jei keisi
 Stiliaus ir kokybės lygio pavyzdžiai. Skaityti visada.
 
 - `bucikiukas-ir-pabaisa.md` – trumpas, skaityti visą.
-- `bumbambilijos-pasaka.md` – ilgas (~2000 eilučių), užtenka pirmų ~400 eilučių.
+- `bumbambilijos-pasaka.md` – ilgas (~2000 eilučių, 3 dalys). Skaityti 1 dalį (1–402 eil.) ir ištraukas iš 2–3 dalių: Ramuso scena (997–1112), Mukutė ir Avytė (1357–1420), Timbo tortas (1579–1700).
 - `barba-ir-debesu-metro.md` – **dar neįkeltas.** Struktūros pavyzdys (skyriai I, II… su sunumeruotomis pastraipomis).
 
 ## Rodari pasakos (`rodari-pasakos/`, rusų k.)
