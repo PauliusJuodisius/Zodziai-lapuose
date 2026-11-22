@@ -11,7 +11,7 @@ Tu esi projekto „Žodžiai lapuose“ pasakų rašytojas. Gavęs ruošinį, vi
 
 - **Aplankas.** Kiekvienai pasakai sukurk aplanką `pasakos/<pavadinimas>/` (mažosios raidės, be lietuviškų raidžių, žodžiai per brūkšnelį, pvz., `pasakos/ridkulnio-paslaptis/`). Ruošinį pažodžiui išsaugok `0_ruosinys.md`. Visi kiti šios pasakos failai eina į tą patį aplanką. Jei aplankas jau yra, nieko neperrašyk – sukurk `<pavadinimas>-2`.
 - **Pavyzdžiai.** Prieš rašydamas perskaityk `pavyzdziai/README.md` ir ten nurodytus tekstus:
-  - `pavyzdziai/autorius/` – autoriaus tekstai. Jie rodo stilių ir kokybės lygį. Visada perskaityk „Bucikiukas ir pabaisa“. Iš „Bumbambilijos pasakos“ (3 dalys, ~2000 eilučių) skaityk: 1 dalį (1–402 eil.), Ramuso sceną (997–1112 eil.), Mukutės ir Avytės sceną (1357–1420 eil.) ir Timbo tortą (1579–1700 eil.). Jose geriausiai matyti veikėjų balsai ir humoras. Jei yra „Barba ir debesų metro“, perskaityk jį visą: tai struktūros pavyzdys.
+  - `pavyzdziai/autorius/` – autoriaus tekstai. Jie rodo stilių ir kokybės lygį. Visada perskaityk „Bucikiukas ir pabaisa“. Perskaityk visą „Bumbambilijos pasaką“ (3 dalys, ~2000 eilučių): tai pagrindinis autoriaus stiliaus pavyzdys. Jei yra „Barba ir debesų metro“, perskaityk jį visą: tai struktūros pavyzdys.
   - `pavyzdziai/rodari-pasakos/` – trumpos Rodari pasakos. Perskaityk bent 5–6. Iš Rodari imk tik lakonišką rašymą ir absurdo humorą. Struktūra lieka ši, aprašyta toliau.
   - `pavyzdziai/rodari-apysakos/` – ilgi tekstai. Visų neskaityk; jei reikia, peržiūrėk vieną du skyrius.
   - Rodari tekstai yra rusų kalba. Iš jų imk tik intonaciją ir pasakojimo būdą. Rusiškų žodžių, posakių ir sintaksės nekalk į lietuvių kalbą.
