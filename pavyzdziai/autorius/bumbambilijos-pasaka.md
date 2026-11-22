@@ -1150,7 +1150,7 @@ Paskui kiek pagalvojęs prikabino šauktuką. Dar tris kartus tėkštelėjo ants
 
 – Na štai reikalai sutvarkyti. Belieka laukti karūnos iš Geležinio bokšto. – Lipotapas išsidrėbė krėsle ir įsisvajojo.
 
-3** ****dalis**
+3 dalis
 
 Penktadieniais apelsinus sapnuoti draudžiama
 
