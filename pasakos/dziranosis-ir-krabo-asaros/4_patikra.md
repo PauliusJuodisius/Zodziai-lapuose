@@ -1,0 +1,12 @@
+# Savikontrolė
+
+- [x] **Viena pagrindinė mintis, jokių šalutinių siužeto linijų.** Visa grandinė sukasi apie per anksti perskaitytą pabaigą: ji atima ašaras, sukelia džergimą, ji pat duoda krabo ašaras. Konkurento su krakmolu linija išmesta.
+- [x] **Bėdą sukėlė ir išsprendė herojus; atsitiktinumų nėra.** Bėda: Džiranosio nekantrumas (perskaitė programą). Sprendimas: jis pats pasakoja pabaigą, surenka ašaras, užlopo karterį. Laikas ne atsitiktinis: finalas rodomas vakarą prieš lenktynes, krabas visada žiūri pakartojimą dvyliktą, lenktynės kasmet pravažiuoja piramidę apie dvyliktą (I.5, II.6).
+- [x] **Visos pasaulio taisyklės nustatytos anksti ir nepažeistos.** Alyva = ašaros, graudesnės = greitesnės (I.3); svogūnų varikliai čiaudi (I.3, laikomasi III.10, III.14, IV.18, V.19); sutepti ūžia, sausi džergia (I.5, III.10); sustojus varikliui sustoja kepurė (III.12); vienintelis kelias per piramidę (I.5, III.14).
+- [x] **Viskas, kas panaudota finale, parodyta pradžioje.** Apversta kepurė (I.2 → IV.17, V.19); bananų minkštimas (I.2 → IV.18, V.21); programa su pabaiga (II.7 → V.21); krabo pakartojimų tvarkaraštis (I.5 → V.21); Spragsė ir jos svogūnai (I.4 → V.20–21).
+- [x] **Nėra garsažodžių, ištiktukų ir pasikartojimų be funkcijos.** Pataisyta: išmesta replika „jį buvo galima ir suvalgyti“ (prilipdytas juokas). „Trejus metus“ kartojamas krabo replikoje sąmoningai.
+- [x] **Visur būtasis laikas.** Pasakojimas būtuoju kartiniu, įpročiai būtuoju dažniniu; esamasis tik dialoguose. Pataisyta: „dar liktų“ → „dar būtų likę“.
+- [x] **Nėra sakinių, kurie aiškina jausmus ar mintis.** Pataisyta: „Džiranosis nė kiek neabejojo, kas tai“ pakeista veiksmu (pagavo ašarą, patrynė, pauostė).
+- [x] **Antroji pusė tokia pat konkreti kaip pradžia.** Finale konkrečiai: kur pilamos ašaros, kuo lopoma, kaip perskrendama ir perplaukiama, kur pralenkiama Spragsė, kokia eilutė programoje. Pataisyta: „lyg pati skubėtų“ (pagražinimas) → „išsitepusi ašaromis, slydo kaip per ledą“; pridėtas baravyko apvertimas atgal ant rato kitame krante.
+- [x] **Pabaiga be moralo ir be paaiškinimų.** Baigiama veiksmu: Džiranosis užklijuoja programos puslapį. Pataisyta: kibirai po karteriais (nelogiška) → eilė su kibirais prie piramidės įėjimo.
+- [x] **Vardai vienodi visame tekste.** Natyras Džiranosis (pilnas vardas pavadinime ir pirmą kartą, toliau Džiranosis), Grumzdas, Spragsė, Kokosė, Banguolis, serialas „Kokosė laukia“. `lentos.md` nėra.
